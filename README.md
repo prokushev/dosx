@@ -1,3 +1,4 @@
+Project moved to https://github.com/osfree-project/osfree
 # dosx
 
 todo
